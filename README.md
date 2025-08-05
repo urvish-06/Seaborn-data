@@ -1,4 +1,4 @@
-🤌Data repository for <a>seaborn</a>examples.
+🤌Data repository for <a href="seaborn"></a> examples.
 
 👉This is not a general-purpose data archive 👈
 
