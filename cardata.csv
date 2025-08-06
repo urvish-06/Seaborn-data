@@ -1,0 +1,34 @@
+name,car_name,year ,price,selling_price,fuel,owner,km_drvien
+Tata Motors,Tata Safari,2023,1723000.00,1300000.00,patrol,First Owner,56000
+Hyundai,CRETA,2022,1693999.00,700000.00,diesel,Second Owner,95000
+Mahindra,Thar,2023,1229999.00,621000.00,diesel,Second Owner,88650
+Honda,Honda Elevate,2024,1457676.00,685000.00,patrol,First Owner,44530
+Skoda,Skoda Slavia,2024,1049000.00,455000.00,diesel,Third Owner,71264
+Toyota,Innova,2017,2274000.00,1433000.00,diesel,Second Owner,88909
+MG,Gloster,2022,4523000.00,2123000.00,diesel,First Owner,44138
+Nissan,Magnite,2021,651000.00,245000.00,patrol,Third Owner,112000
+Volkswagen,Virtus,2022,1721000.00,1344000.00,diesel,First Owner,33885
+Kia,Seltos,2020,1172200.00,499000.00,diesel,Second Owner,105000
+Maruti ,Swift,2015,649000.00,229000.00,patrol,Third Owner,133526
+Nissan,Magnite,2022,909600.00,356000.00,patrol,Third Owner,150026
+Volkswagen,Virtus,2023,1774120.00,726700.00,diesel,First Owner,183595.3
+Kia,Seltos,2023,798640.00,477400.00,diesel,Second Owner,157164.6
+Maruti ,Swift,2013,743160.00,28100.00,patrol,Third Owner,190733.9
+Tata Motors,Tata Safari,2018,979626.28,338106.67,patrol,First Owner,172815.2743
+Hyundai,CRETA,2017,915667.94,286851.67,diesel,Second Owner,181463.6686
+Mahindra,Thar,2020,851709.61,235596.67,diesel,Second Owner,190112.0629
+Honda,Honda Elevate,2020,787751.28,184341.67,patrol,First Owner,198760.4571
+Skoda,Skoda Slavia,2022,723792.95,133086.67,diesel,Third Owner,207408.8514
+Toyota,Innova,2014,659834.62,81831.67,diesel,Second Owner,216057.2457
+MG,Gloster,2019,595876.28,30576.67,diesel,First Owner,224705.64
+Nissan,Magnite,2018,531917.95,20678.33,patrol,Third Owner,233354.0343
+Volkswagen,Virtus,2024,467959.62,71933.00,diesel,First Owner,242002.4286
+Kia,Seltos,2022,404001.29,-123188.33,diesel,Second Owner,250650.8229
+Maruti ,Swift,2009,340042.95,-174443.33,patrol,Third Owner,259299.2171
+Nissan,Magnite,2019,276084.62,-225698.33,patrol,Third Owner,267947.6114
+Volkswagen,Virtus,2023,212126.29,-276953.33,diesel,First Owner,276596.0057
+Kia,Seltos,2024,148167.96,-328208.33,diesel,Second Owner,285244.4
+Maruti ,Swift,2016,84209.63,-379463.33,patrol,Third Owner,293892.7943
+Tata Motors,Tata Safari,2015,120251.00,30718.00,patrol,First Owner,302541.1886
+Hyundai,CRETA,2017,2370732.00,131973.00,diesel,Second Owner,311189.5829
+Mahindra,Thar,2023,107665.00,53228.00,diesel,Second Owner,319837.9771
